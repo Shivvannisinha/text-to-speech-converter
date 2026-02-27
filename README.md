@@ -60,9 +60,9 @@ git clone https://github.com/Shivvannisinha/Text-to-Speech-Converter.git
 
 ---
 
-## 🌐 Live Demo (Optional)
+## 🌐 Live Demo 
 
-(Add your live link here if deployed using GitHub Pages)
+https://shivvannisinha.github.io/text-to-speech-converter/
 
 ---
 
